@@ -4,8 +4,8 @@ using namespace std;
 
 int main () {
 int a, b,c; cin >>a >>b >>c ;
-int largest = max(a,b,c) ;
-int smallest = min(a,b,c) ;
+int largest = max({a,b,c}) ;
+int smallest = min({a,b,c}) ;
 
 
 
