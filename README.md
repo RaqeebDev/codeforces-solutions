@@ -23,9 +23,6 @@ This repository is created to:
 ----------------------------------------------------------------------------------------------------------------------------
 
 
-Each folder represents a Codeforces problem rating and contains `.cpp` files for individual problems.
-
----
 
 
 ---
