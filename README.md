@@ -18,17 +18,6 @@ This repository is created to:
 
 
 ------------------------------------------------------------------------------------------------------------------------
-## 📁 Folder Structure
-codeforces-solutions/
-├── 800/
-│ ├── A>B.cpp
-│ ├── FloatOrInt.cpp
-│ └── ...
-├── 900/
-├── 1000/
-├── 1100/
-├── ...
-├── 3500/ (eventual target: all rating levels)
 
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -38,17 +27,10 @@ Each folder represents a Codeforces problem rating and contains `.cpp` files for
 
 ---
 
-## ✅ What's Included
-
-- ✅ C++ solutions using STL and efficient logic
-- ✅ Well-commented code explaining how and why each step works
-- ✅ Named files that reflect problem intent
-- ✅ Real Codeforces problems (links and IDs planned for future)
-- ✅ Designed for self-learners 
 
 ---
 
-## 🧠 Who Should Use This
+##  Who Should Use This
 
 - Beginners trying to get past 800–1200 levels
 - Intermediate programmers pushing past 1400–1800
@@ -56,7 +38,7 @@ Each folder represents a Codeforces problem rating and contains `.cpp` files for
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - C++17
 - Codeforces platform
@@ -64,7 +46,7 @@ Each folder represents a Codeforces problem rating and contains `.cpp` files for
 
 ---
 
-## 🛣️ Roadmap
+##  Roadmap
 
 - [x] 800 level problems
 - [ ] 900 level problems
@@ -77,7 +59,7 @@ Each folder represents a Codeforces problem rating and contains `.cpp` files for
 
 ---
 
-## 📌 How to Navigate
+##  How to Navigate
 
 Each folder contains `.cpp` files. Open any file to see the problem solved with complete comments.
 
