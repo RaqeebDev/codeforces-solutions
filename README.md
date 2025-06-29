@@ -1,4 +1,4 @@
-# Codeforces Solutions (All Ratings, with Explanations)
+# Codeforces Solutions (All Ratings)
 
 This repository contains a growing collection of C++ solutions to Codeforces problems, categorized by difficulty rating — starting from 800 and going all the way up to the highest rated problems on the platform.
 
@@ -10,7 +10,7 @@ Every solution is thoroughly commented to explain the thought process, algorithm
 
 This repository is created to:
 
-- Serve as a go-to reference for clean, readable, and explained C++ solutions
+- Serve as a go-to reference for clean, readable C++ solutions
 - Act as a long-term project to track improvement and contribute to the open-source CP community
 
 
@@ -56,18 +56,6 @@ This repository is created to:
 
 ---
 
-##  How to Navigate
-
-Each folder contains `.cpp` files. Open any file to see the problem solved with complete comments.
-
-Example:
-```cpp
-/*
- * Problem: Float or Integer Checker
- * Logic: Check if decimal part is zero using floor and ceil
- * Input: long double a
- * Output: int a (if a is whole) or float floor(a) and decimal part
- */
 
 
 
