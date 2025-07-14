@@ -2,7 +2,8 @@
 
 This repository contains a growing collection of C++ solutions to Codeforces problems, categorized by difficulty rating — starting from 800 and going all the way up to the highest rated problems on the platform.
 
-Every solution is thoroughly commented to explain the thought process, algorithm, edge cases, and optimizations wherever applicable. This makes it beginner-friendly while still being a powerful resource for advanced learners.
+
+Every solution is thoroughly commented to explain the thought process, algorithm, edge cases, and optimizations wherever applicable. This makes it beginner-friendly while still being a powerful resource for advanced learners. (pseudo explaination at last of each solution)
 
 ---
 
