@@ -9,7 +9,7 @@ Every solution is thoroughly commented to explain the thought process, algorithm
 
 ## 🔍 Purpose
 
-This repository is created to
+This repository is created to:
 
 - Serve as a go-to reference for clean, readable C++ solutions
 - Act as a long-term project to track improvement and contribute to the open-source CP community
