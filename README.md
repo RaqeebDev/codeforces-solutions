@@ -1,4 +1,4 @@
-# Codeforces Solutions (All Ratin
+# Codeforces Solutions (All Rating
 
 This repository contains a growing collection of C++ solutions to Codeforces problems, categorized by difficulty rating — starting from 800 and going all the way up to the highest rated problems on the platform.
 
