@@ -19,7 +19,7 @@ int main()
 }
 
 // Github : https://github.com/RaqeebDev
-// Problem Link :https://codeforces.com/contest/1102/problem/A
+// Problem Link :
 
 /* Tips and Learnings (not organised)
 
