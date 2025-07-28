@@ -12,7 +12,7 @@ int main()
 }
 
 // Github : https://github.com/RaqeebDev
-// Problem Link :https://codeforces.com/contest/1102/problem/A
+// Problem Link :https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/palindrome-check-2/
 
 /* Tips and Learnings (not organised)
 
