@@ -7,7 +7,7 @@ Every solution is thoroughly commented to explain the thought process, algorithm
 
 ---
 
-## 🔍 Points '
+## 🔍 Points 
 
 This repository is created to:
 
