@@ -8,7 +8,7 @@ Every solution is thoroughly commented to explain the thought process, algorithm
 ---
 
 ## 🔍 Points 
-88888888888
+888888888
 This repository is created to:
 
 - Serve as a go-to reference for clean, readable C++ solutions
